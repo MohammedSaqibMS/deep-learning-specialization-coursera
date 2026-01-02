@@ -1,3 +1,3 @@
 # Deep Learning Specialization - Programming Assignments
 
-This repository contains programming assignments for the Deep Learning Specialization by deeplearning.AI. It includes Jupyter Notebooks for exercises in neural networks, hyperparameter tuning, convolutional networks, and sequence models.
+This repository contains the programming assignments for the Deep Learning Specialization by deeplearning.AI, taught by Andrew Ng. The specialization includes five comprehensive courses, each with hands-on assignments designed to help you gain practical experience with deep learning.
